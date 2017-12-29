@@ -7,7 +7,7 @@
 
 ## Documentation
 
-[Qiita (Japanese)](https://laravel.com/docs/routing)
+[Qiita (Japanese)](https://qiita.com/hareku/items/ea09602bf40bf0a42040)
 
 ## License
 
